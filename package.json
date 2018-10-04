@@ -1,0 +1,18 @@
+{
+  "name": "hapi-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniela Matos de Carvalho <alunassertiva@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sericaia/hapi-now.git"
+  }
+}
